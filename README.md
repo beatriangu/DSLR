@@ -25,7 +25,8 @@ To display a dataframe with only numerical values, transposed axes and first fou
 
 ## Data Visualitation
 
-Histogram for All Subjects
+Histogram for All Subjects.
+For example ; The Best Hand concept does not provide us with any significant insights.
 
 <p align="left">
   <img src="https://github.com/beatriangu/DSLR/blob/main/Screenshot%20from%202024-09-07%2018-38-25.png" alt="Histogram for All Subjects" width="600"/>
