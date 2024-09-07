@@ -16,6 +16,7 @@ To display dataframe exactly as in the subject . Only numerical values, transpos
 <p align="left">
   <img src="https://github.com/beatriangu/DSLR/blob/main/Screenshot%20from%202024-09-07%2018-18-37.png" alt="Miniatura" width="300"/>
 </p>
+To display a dataframe with only numerical values, transposed axes and first four Subjects.
 
 ### Data description
 This are some visualization utils for dataset:
