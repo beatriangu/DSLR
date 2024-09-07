@@ -7,6 +7,13 @@ DataScience x Logistic Regression - School-42 project
 
 Look at [subject.pdf](readme_images/subject.pdf) for more information
 
+### Data Analysis
+
+<p align="left">
+  <img src="https://github.com/beatriangu/DSLR/blob/main/Screenshot%20from%202024-09-07%2018-11-43.png" alt="Miniatura" width="300"/>
+</p>
+
+
 ### Data description
 This are some visualization utils for dataset:
  
