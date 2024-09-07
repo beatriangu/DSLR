@@ -25,34 +25,32 @@ To display a dataframe with only numerical values, transposed axes and first fou
 
 ## Data Visualitation
 
-Histogram for All Subjects.
+Histogram : show course marks distribution.
 For example ; The Best Hand concept does not provide us with any significant insights.
 
 <p align="left">
   <img src="https://github.com/beatriangu/DSLR/blob/main/Screenshot%20from%202024-09-07%2018-38-25.png" alt="Histogram for All Subjects" width="600"/>
 </p>
-Scatter between a couple of features.
+
+Scatter: how values for two courses using Cartesian coordinates.
 
 Null or weak correlation example between Arithmancy and Care of Magical Creatures
 <p align="left">
   <img src="https://github.com/beatriangu/DSLR/blob/main/Screenshot%20from%202024-09-07%2018-54-00.png" alt="Miniatura" width="600"/>
 </p>
 
+Pair Plot: This scatter plot matrix visualizes the pairwise relationships between each subject and all other subjects. It allows you to see how each pair of subjects correlates with each other.
+
+<p align="left">
+<img src="https://github.com/beatriangu/DSLR/blob/main/Screenshot%20from%202024-09-07%2019-28-14.png" alt="Miniatura" width="300"/>
+</p>
+
 ### Training and Evaluating:
-`Accuracy` with standard parameters is `0.99`
 
-Parameters for training, including batch size, are stored in [config.yaml](config.yaml)
+<img src="https://github.com/beatriangu/DSLR/blob/main/Screenshot%20from%202024-09-07%2019-44-48.png" alt="Thumbnail" width="300"/>
 
-* [logreg_train.py](logreg_train.py) saves `data/weights.pt`
-(use `-v` flag for loss history visualization)
 
-|stochastic GD                                    |                                             batch GD|                                                      GD|
-|-------------------------------------------------|-----------------------------------------------------|--------------------------------------------------------|
-|![histogram](readme_images/loss_batch_size_1.png)|![scatter_plot](readme_images/loss_batch_size_21.png)|![clusters_plot](readme_images/loss_batch_size_1600.png)|
 
-* [logreg_predict.py](logreg_predict.py) takes `data/weights.pt` and saves `data/houses.csv`
-* [evaluate.py](evaluate.py) - `logreg_train.py` + `logreg_predict.py` and evaluating on `dataset_truth.csv`
-* [random_evaluate.py](random_evaluate.py) - training and evaluating on random splitted `dataset_train.csv`
 
 
 <p align="left">
