@@ -55,6 +55,8 @@ python3 logreg_predict.py dataset weights
 
 Generate a file with all predictions for a given dataset
 
+<img src="https://github.com/beatriangu/DSLR/blob/main/Screenshot%20from%202024-09-07%2019-56-50.png" alt="Thumbnail" width="300"/>
+
 
 
 <p align="left">
