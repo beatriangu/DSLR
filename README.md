@@ -23,22 +23,12 @@ To display a dataframe with only numerical values, transposed axes and first fou
   <img src="https://github.com/beatriangu/DSLR/blob/main/Screenshot%20from%202024-09-07%2018-23-34.png" alt="Miniatura" width="300"/>
 </p>
 
-### Data description
-This are some visualization utils for dataset:
- 
-|[histogram.py](data_description/histogram.py)|[scatter_plot.py](data_description/scatter_plot.py)    |[clusters_3d_plot.py](data_description/clusters_3d_plot.py)|
-|---------------------------------------------|-------------------------------------------------------|-----------------------------------------------------------|
-|![histogram](readme_images/histogram.png)    |![scatter_plot](readme_images/scatter_plot.png)        |![clusters_plot](readme_images/clusters_plot.png)          |
-| Show course marks distribution              |Show values for two courses using Cartesian coordinates|3D scatter plot of clusters                                |
+## Histogram for All Subjects
 
-|[pair_plot.py](data_description/pair_plot.py) is `scatter_plot.py` + `histogram.py` for all courses|
-|---------------------------------------------------------------------------------------------------|
-|![pair_plot.png](readme_images/pair_plot.png)|
+<p align="left">
+  <img src="https://github.com/beatriangu/DSLR/blob/main/Screenshot%20from%202024-09-07%2018-38-25.png" alt="Histogram for All Subjects" width="600"/>
+</p>
 
-|[describe.py](data_description/describe.py) is implementation of [pandas.DataFrame.describe](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.describe.html)|
-|-------------------------------------------|
-|![describe](readme_images/describe.png)|
-___
 
 ### Training and Evaluating:
 `Accuracy` with standard parameters is `0.99`
