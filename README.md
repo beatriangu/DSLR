@@ -33,7 +33,7 @@ For example ; The Best Hand concept does not provide us with any significant ins
 </p>
 Scatter between a couple of features.
 
-Null or weak correlation exampple between Arithmancy and Care of Magical Creatures
+Null or weak correlation example between Arithmancy and Care of Magical Creatures
 <p align="left">
   <img src="https://github.com/beatriangu/DSLR/blob/main/Screenshot%20from%202024-09-07%2018-54-00.png" alt="Miniatura" width="600"/>
 </p>
