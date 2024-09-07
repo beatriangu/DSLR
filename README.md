@@ -8,7 +8,7 @@ DataScience x Logistic Regression - School-42 project
 Look at [subject.pdf](readme_images/subject.pdf) for more information
 
 ### Data Analysis
-
+To show the dataframe from a complete csvfile with all types of values ​​and with all subjects
 <p align="left">
   <img src="https://github.com/beatriangu/DSLR/blob/main/Screenshot%20from%202024-09-07%2018-11-43.png" alt="Miniatura" width="300"/>
 </p>
