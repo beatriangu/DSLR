@@ -23,7 +23,9 @@ To display a dataframe with only numerical values, transposed axes and first fou
   <img src="https://github.com/beatriangu/DSLR/blob/main/Screenshot%20from%202024-09-07%2018-23-34.png" alt="Miniatura" width="300"/>
 </p>
 
-## Histogram for All Subjects
+## Data Visualitation
+
+Histogram for All Subjects
 
 <p align="left">
   <img src="https://github.com/beatriangu/DSLR/blob/main/Screenshot%20from%202024-09-07%2018-38-25.png" alt="Histogram for All Subjects" width="600"/>
