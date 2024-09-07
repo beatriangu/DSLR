@@ -47,9 +47,13 @@ Pair Plot: This scatter plot matrix visualizes the pairwise relationships betwee
 
 ### Training and Evaluating:
 
+python3 logreg_train.py [-h] [-v] dataset
+
 <img src="https://github.com/beatriangu/DSLR/blob/main/Screenshot%20from%202024-09-07%2019-44-48.png" alt="Thumbnail" width="300"/>
 
+python3 logreg_predict.py dataset weights
 
+Generate a file with all predictions for a given dataset
 
 
 
